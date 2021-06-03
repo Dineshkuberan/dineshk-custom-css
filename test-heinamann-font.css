@@ -20,14 +20,15 @@
 .lrn_widget .lrn_texteditor_editable {
   font-family: "Heinemann-Regular";
 }
-.lrn h1,
-.lrn h2,
-.lrn h3,
-.lrn h4,
-.lrn h5,
-.lrn h6 {
+div.lrn h1,
+div.lrn h2,
+div.lrn h3,
+div.lrn h4,
+div.lrn h5,
+div.lrn h6 {
   font-family: "Heinemann-Regular";
 }
+.lrn_question h6,
 .lrn_question h5,
 .lrn_question h4,
 .lrn_question h3,
@@ -40,9 +41,9 @@
 .lrn_question strong {
   font-family: "Heinemann-Bold";
 }
-.lrn.lrn-assess pre code,
-.lrn.lrn-assess pre kbd,
-.lrn.lrn-assess pre pre,
-.lrn.lrn-assess pre samp {
+div.lrn code,
+div.lrn kbd,
+div.lrn pre,
+div.lrn samp {
   font-family: "Heinemann-Regular";
 }
