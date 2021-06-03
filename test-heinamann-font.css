@@ -20,6 +20,14 @@
 .lrn_widget .lrn_texteditor_editable {
   font-family: "Heinemann-Regular";
 }
+.lrn h1,
+.lrn h2,
+.lrn h3,
+.lrn h4,
+.lrn h5,
+.lrn h6 {
+  font-family: "Heinemann-Regular";
+}
 .lrn_question h5,
 .lrn_question h4,
 .lrn_question h3,
