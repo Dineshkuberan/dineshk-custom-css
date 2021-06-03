@@ -32,3 +32,6 @@
 .lrn_question strong {
   font-family: "Heinemann-Bold";
 }
+.lrn code, .lrn kbd, .lrn pre, .lrn samp {
+    font-family: "Heinemann-Regular";
+}
