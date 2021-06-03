@@ -40,6 +40,9 @@
 .lrn_question strong {
   font-family: "Heinemann-Bold";
 }
-.lrn code, .lrn kbd, .lrn pre, .lrn samp {
-    font-family: "Heinemann-Regular";
+.lrn.lrn-assess pre code,
+.lrn.lrn-assess pre kbd,
+.lrn.lrn-assess pre pre,
+.lrn.lrn-assess pre samp {
+  font-family: "Heinemann-Regular";
 }
