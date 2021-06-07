@@ -25,7 +25,8 @@ div.lrn h2,
 div.lrn h3,
 div.lrn h4,
 div.lrn h5,
-div.lrn h6 {
+div.lrn h6,
+div.lrn p {
   font-family: "Heinemann-Regular";
 }
 .lrn_question h6,
