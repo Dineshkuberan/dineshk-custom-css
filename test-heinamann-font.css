@@ -39,7 +39,9 @@ div.lrn p {
 .lrn_question pre {
   font-family: "Heinemann-Regular";
 }
-.lrn_question strong, div.lrn b, div.lrn strong {
+.lrn_question strong,
+div.lrn b,
+div.lrn strong {
   font-family: "Heinemann-Bold";
 }
 div.lrn code,
